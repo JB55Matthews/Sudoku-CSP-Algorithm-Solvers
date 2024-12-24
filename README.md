@@ -10,3 +10,4 @@ There are 5 main algorithms implemented which can be used:
 * Minimum Conflicts (Local Search aglorithm)
 
 this
+![Dali2](https://github.com/user-attachments/assets/053430d8-bdcb-4d92-b3de-63e08bdd496d)

@@ -88,7 +88,7 @@ public class MinConflicts {
             }
 
         };
-        int minI = conflictCount[0];
+        int minI = 0;
         for (int i = 0; i <conflictCount.length; i++){
             if (conflictCount[i]<conflictCount[minI]){
                 minI = i;
